@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Balance Beam</string>
+    <string name="channel_name">Budget Alerts</string>
+    <string name="channel_description">Notifications about your budget status</string>
+    <string name="budget_exceeded_title">Budget Exceeded!</string>
+    <string name="budget_exceeded_message">You have spent more than your monthly budget</string>
+    <string name="budget_warning_title">Budget Warning</string>
+    <string name="budget_warning_message">You\'ve used %d%% of your monthly budget</string>
+</resources>

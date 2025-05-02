@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- 60% DOMINANT COLOR (Background/Base) -->
+    <!-- ==================== -->
+    <color name="dominant_primary">#7CB9E8</color> <!-- Deep Navy Blue -->
+    <color name="on_primary">#FFFFFF</color> <!-- White text/icons on primary -->
+    <color name="transparent">#00000000</color>
+
+    <!-- ==================== -->
+    <!-- 30% SECONDARY COLOR (UI Elements) -->
+    <!-- ==================== -->
+    <color name="secondary_surface">#F8FAFC</color> <!-- Light Neutral Gray -->
+    <color name="on_secondary">#1F2937</color> <!-- Dark text on light surfaces -->
+
+    <!-- ==================== -->
+    <!-- 10% ACCENT COLOR (CTAs/Highlights) -->
+    <!-- ==================== -->
+    <color name="accent_success">#10B981</color> <!-- Emerald Green -->
+    <color name="on_accent">#FFFFFF</color> <!-- White text on accent -->
+    <color name="warning">#FF5722</color>
+    <color name="primaryBlueLight">#BBDEFB</color>
+    <color name="colorPrimary">#7CB9E8</color> <!-- Deep Navy Blue -->
+
+</resources>
